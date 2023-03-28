@@ -6,4 +6,4 @@
 
 效果图：
 
-![image](https://user-images.githubusercontent.com/10266200/228227954-c966333b-b6c7-4cd8-b761-c718b5a63fd3.png)
+![image](https://user-images.githubusercontent.com/10266200/228228101-8ae8e66e-dfe3-4d23-81fa-df858dff7078.png)
